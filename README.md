@@ -21,7 +21,7 @@
 
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-python-red.svg)](https://www.python.org/) [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-opencv-red.svg)](https://opencv.org/)
-[![software used no. 1](https://img.shields.io/badge/software-pycharm-gold.svg)]https://www.jetbrains.com/pycharm/)
+[![software used no. 1](https://img.shields.io/badge/software-pycharm-gold.svg)](https://www.jetbrains.com/pycharm/)
 
 [![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=facial-detection-and-recognition&style=flat)](https://github.com/rubenandrebarreiro/facial-detection-and-recognition/stargazers)
 [![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=facial-detection-and-recognition&style=flat)](https://github.com/rubenandrebarreiro/facial-detection-and-recognition/fork)
