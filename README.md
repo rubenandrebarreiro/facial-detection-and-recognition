@@ -35,7 +35,7 @@
 
 ## Description
 
-A project based in **Computer Vision** for **_Facial Detection and Recognition_**. This project was built using [**_Python_**](https://www.python.org/) and [**_OpenCV (Open Source Computer Vision Library)_**](https://opencv.org/). The project will contain some basic _exercises_ and _tutorials_, offered by [**_OpenCV (Open Source Computer Vision Library) Documentation_**](https://docs.opencv.org/4.1.0/).
+A project based in **_Computer Vision_** for **_Facial Detection and Recognition_**. This project was built using [**_Python_**](https://www.python.org/) and [**_OpenCV (Open Source Computer Vision Library)_**](https://opencv.org/). The project will contain some basic _exercises_ and _tutorials_, offered by [**_OpenCV (Open Source Computer Vision Library) Documentation_**](https://docs.opencv.org/4.1.0/).
 
 ## Screenshots
 
